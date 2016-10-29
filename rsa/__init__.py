@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 ### Version 1.0
 ### RSA encryption and signing package
 ### Updated: 29/7/2011
